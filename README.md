@@ -11,23 +11,23 @@
 
 ### Tecnologías con las que he trabajado recientemente:
 
-NextJs
-Context Api
-MongoDb
-Next Auth
-JavaScript (ES6+)
-React Js
-Redux
-TypeScript
-Sequelize
-NodeJs
-Express
-Docker
-Linux
-Bootstrap
-Tailwindcss
-php
-Mysql
+- NextJs
+- Context Api
+- MongoDb
+- Next Auth
+- JavaScript (ES6+)
+- React Js
+- Redux
+- TypeScript
+- Sequelize
+- NodeJs
+- Express
+- Docker
+- Linux
+- Bootstrap
+- Tailwindcss
+- php
+- Mysql
 
 <!--
 **nalonsor/nalonsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
