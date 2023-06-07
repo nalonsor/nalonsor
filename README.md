@@ -18,7 +18,7 @@
 
 <h3 align="center">Tecnologías con las que he trabajado recientemente:</h3>
 
-<p align="center">
+<div align="center">
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="30" height="30"/>
 
@@ -50,7 +50,7 @@
          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="nextjs" width="30" height="30" />
            
-</p>
+</div>
 
 <!--
 **nalonsor/nalonsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
