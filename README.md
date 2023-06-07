@@ -18,6 +18,7 @@ Si estás buscando un desarrollador web que pueda crear aplicaciones web de alta
   
 
 ### Tecnologías con las que he trabajado recientemente:
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="30" height="30" />
@@ -33,3 +34,4 @@ Si estás buscando un desarrollador web que pueda crear aplicaciones web de alta
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="30" height="30" />
+</p>
