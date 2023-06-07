@@ -18,7 +18,7 @@
 
 <h3 align="center">Tecnologías con las que he trabajado recientemente:</h3>
 
-<div align="center">
+<div>
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="30" height="30"/>
 
